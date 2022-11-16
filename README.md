@@ -1,4 +1,4 @@
-# GDSC Code Bridge 
+# GDSC Code Bridge 발표자료
 
 - [백엔드 개발자로 취업해보기](GDSC%20Code%20Bridge%20-%20백엔드%20개발자로%20취업해보기.pdf)
 
