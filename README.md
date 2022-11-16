@@ -1,5 +1,5 @@
-# GDSC Code Bridge
-### 2022년 11월 15일 (구글 스타트업 캠퍼스)
+# GDSC Code Bridge 
+
 - [백엔드 개발자로 취업해보기](GDSC%20Code%20Bridge%20-%20백엔드%20개발자로%20취업해보기.pdf)
 
 - [강화학습 기초 톧아보기](GDSC%20Code%20Bridge%20-%20%20강화학습%20기초%20톧아보기.pdf)
@@ -8,4 +8,4 @@
 
 - [기업 코딩테스트 극복하기](GDSC%20Code%20Bridge%20-%20기업%20코딩테스트%20극복하기.pdf)
 
-[Webpage](https://gdsc-donga.github.io/codebridge)
+- [[Web Page](https://gdsc-donga.github.io/codebridge)]
